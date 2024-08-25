@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Hemson
-- 👀 I’m interested in ...Digital stuff.
-- 🌱 I’m currently learning ... Web Development
-- 💞️ I’m looking to collaborate on ... Web Coaches
-- 📫 How to reach me ... TBA
-- 😄 Pronouns: ... Smart and Funny
+- 👋 Hi, I’m Hemson>
+- 👀 I’m interested in ...Digital Stuff>
+- 🌱 I’m currently learning ... Web Development>
+- 💞️ I’m looking to collaborate on ... Web Coaches>
+- 📫 How to reach me ... undecided>
+- 😄 Pronouns: ... Smart and Funny>
 - ⚡ Fun fact: ... I haven't experienced a plane yet and out of the country.
 
 <!---
